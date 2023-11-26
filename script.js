@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "You look cute when u are naraaz 😝😂   but ab maan jaao naa 😖!";
+  question.innerHTML = "You look cute when u are naraaz 😝😂   but ab maan jaao naa 😖🥺!";
     
     gif.src = "https://media.giphy.com/media/2aw9gwZlltbdX92b4w/giphy.gif";
     
