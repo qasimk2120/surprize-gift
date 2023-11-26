@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "You look cute when u are naraaz 😝😂!";
   gif.src =
-    "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
+    "https://media.giphy.com/media/uw0KpagtwEJtC/giphy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
